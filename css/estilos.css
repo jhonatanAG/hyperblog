@@ -1,0 +1,9 @@
+body
+{
+    /*Color del texto*/
+    color: blueviolet;
+    /*Alineado al centro*/
+    text-align: center;
+    /*Todo en Arial*/
+    font-family: "Arial";
+}
