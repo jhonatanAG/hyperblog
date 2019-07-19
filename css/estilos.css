@@ -1,19 +1,13 @@
 body
 {
-    /*Color del texto*/
-    color: blueviolet;
-    /*Alineado al centro*/
-    text-align: center;
-    /*Todo en Arial*/
-    font-family: Courier;
-}
     color: #333;
-    text-align: left;
-    font-family: "Arial";
+    text-align: center;
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+
 #cabecera
 {
     background: #33A;
@@ -31,29 +25,20 @@ body
     font-size: 0.8em;
 }
 
->>>>>>> cabecera
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
-<<<<<<< HEAD
-    margin: 0% auto;
-=======
     margin: 0 auto;
->>>>>>> cabecera
 }
 
 #container h1
 {
     font-size: 20px;
-<<<<<<< HEAD
-=======
 }
-
 #post
 {
     padding: 1em;
->>>>>>> cabecera
 }
